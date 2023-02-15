@@ -1,0 +1,6 @@
+.idea/
+.ipynb*/
+__pycache__/
+train_results_excel/
+Untitled*
+.DS_Store
