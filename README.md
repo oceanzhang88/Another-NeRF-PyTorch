@@ -18,7 +18,7 @@ This project is a concise NeRF re-implementation that follows closely with the o
 
 Final rendered images from out project:
 
-&nbsp; &nbsp; &nbsp; <img src="media/final_gif/chair.gif" height="250" width="250"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="media/final_gif/ship.gif" height="250" width="250"> &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; <img src="media/final_gif/chair.gif" height="300" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="media/final_gif/drums.gif" height="300" width="300"> &nbsp; &nbsp; &nbsp;
 
 
 ## How to Train
