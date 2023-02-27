@@ -16,7 +16,7 @@ This project is a concise NeRF re-implementation that follows closely with the o
 
 ## Result
 
-Final rendered images from out project(wait for loading the gif, might be slow):
+Final rendered images from this project(wait for loading the gif, might be slow):
 
 &nbsp; &nbsp; &nbsp; <img src="media/final_gif/chair.gif" height="350" width="350"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="media/final_gif/drums.gif" height="350" width="350"> &nbsp; &nbsp; &nbsp;
 
